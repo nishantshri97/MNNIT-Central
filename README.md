@@ -10,7 +10,7 @@
 
 [![YouTube video here](https://img.youtube.com/vi/RcYkqvmxNFM/0.jpg)](https://youtu.be/RcYkqvmxNFM)
 
-<br>**Website:** https://ashu12chi.github.io/MNNIT-Central/
+<br>**Website:** https://nisiddharth.github.io/MNNIT-Central/
 <br>
 
 After registration in the app:
